@@ -1,4 +1,4 @@
-#ZanoPR
+ZanoPR
 
 All the projects for the organization Zano go here.
 Please check the repositories tab to see all the projects we're currently working on.
